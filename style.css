@@ -87,3 +87,32 @@ background-position-y: 60px;
     background-size: 120px;
     background-position-y: 80px;
 }
+
+.rs p{
+    font-size: 12px;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.rs h2{
+    font-size: 20px;
+    padding-top: 55%;
+    padding-left: 3%;
+}
+.width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.width img{
+width: 100%;
+}
+#bp{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 40%;
+}
+#web{
+    margin-top: -10%;
+}
